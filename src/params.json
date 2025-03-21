@@ -1,9 +1,9 @@
 {
-    "name": "Dev Icons v1",
+    "name": "Dev Icons v2",
     "alias": "witsec-dev-icons",
-    "version": 1,
+    "version": 2,
     "minAppVersion": "4",
     "plugins": ["dev-icons"],
     "description": "Add Dev icons to your website. <a href='https://witsec.nl'>Learn more...</a>",
-    "logo": "thumbnail.svg"
+    "logo": "thumbnail.jpg"
 }
